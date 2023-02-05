@@ -1,0 +1,32 @@
+{
+  "name": "fast-mongo",
+  "version": "0.0.1",
+  "description": "Created for you to use the Mongodb database in your projects. A module that hosts simple database methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adonisfx/fast-mongo.git"
+  },
+  "keywords": [
+    "fast-mongo",
+    "mongodb",
+    "database",
+    "quick.db",
+    "mongoose",
+    "quickmongo",
+    "db",
+    "mongo"
+  ],
+  "author": "Adonisfx",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Adonisfx/fast-mongo/issues"
+  },
+  "homepage": "https://github.com/Adonisfx/fast-mongo#readme",
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  }
+}
